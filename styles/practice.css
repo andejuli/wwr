@@ -1,0 +1,32 @@
+body {
+    font-size: 30px;
+}
+img {
+    width: 10%;
+    border: 5px solid green;
+    max-width: 1400px;
+
+}
+h1, p {
+    border: 5px solid blue;
+    text-align: center;
+}
+#image-box {
+    text-align: center;
+}
+p {
+    font-size: 3em;
+}
+.para-box {
+    font-size: 12px;
+}
+div p{
+    background-color: pink;
+}
+div p:hover {
+    background-color: lightblue;
+}
+
+.social a {
+    text-decoration: none;
+}
